@@ -27,6 +27,10 @@ I'm enthusiastic about continuous learning and open to collaboration. If you hav
 - Redis
 - Elasticsearch
 
+**Message Queue:**
+- Kafka
+- RabbitMQ
+
 **Containerization:**
 - Docker
 - Kubernetes
